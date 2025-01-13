@@ -1,0 +1,94 @@
+What is the percentage difference between the dataset’s urban population and the estimated world urban population (55% of 7.821 billion)?,,
+Estimated world urban population,4.30155,
+total urban population,3687018.432,
+percentage difference,199.9995333,percentage difference between the dataset's urban population and the estimated global urban population for 2020.
+National population versus urban and rural shares shows averages around 50% because the lines fluctuate equally.,,
+average of urban population share(pop_u),57.13876712,
+average of rural population share(pop_r),42.86123288,
+,,
+,,the lines fluctuates equally above and below the 50% mark
+,,but
+,,the averages do not deviate significantly from 50%
+,,therefore True.
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+calculate the interquartile range (IQR) of the rural surface service feature (wat_sur_r),,first sort the wat_sur_r in ascending order
+Q1(25th percentile),0,
+Q3(75th percentile),6.17898575,
+IQR(Q3-Q1),6.17898575,
+Interpretation of the IQR,,The smaller IQR indicates that most rural surface water values are close together
+"Based on the 100% stacked chart, which statement is true about urban shares and water access levels?",,
+using the pivot table 2,,
+trends to observe,,countries with higher population urban shares are more likely to provide basic water service
+,,"as the urban share population increases, the surface water and unimproved water access decreases."
+Countries with greater urban population shares are more likely to provide basic water service,,TRUE
+Countries with smaller urban population shares are more likely to provide basic water service,,FALSE
+No clear relationship exists between urbanization and water access levels,,TRUE
+Access levels change consistently with urbanization,,TRUE
+Some countries have 100% basic service access across all rural shares (0–100%).,,yes
+filter wat_bas_r,,
+how many of these countries,,29
+how many countries were we observing,,135
+average of these,,0.2148148148
+,,
+using pivot table 3,,TRUE
+,,MAX and MIN values for wat_bas_r are both 100% for each country
+,,there are countries where wat_bas_r = 100% consistently across all rural shares (pop_r)
+What is the average wat_lim_n for low-income countries?,,
+,,16.84939108
+using pivot table 4,,this is the national average percentage of access to limited services (wat_lim_n) for low-income countries.
+which statement is true about population sizes and urbanization in income groups?,,
+using pivot table 5,,
+-largest population group,,lower middle income has the highest total national population
+,,low income population < lower middle income population
+urbanization trends,,urbanization increases with higher income groups
+,,
+Analyse the following statements,,
+more people live in low income countries:,,
+low income,582448.1772,
+high income,892500.4568,
+,,since high income population > low income population 
+,,FALSE
+high income countries are more urbanized:,,since the average pop_u for high income is the highest of all income groups 
+,,TRUE
+more people live in lower-middle income countries:,,lower middle income group has the highest population of all income groups
+,,TRUE
+greater GNI means more urbanized:,,urbanization (AVERAGE of pop_u) increases consistently with income group
+,,TRUE
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+The distribution of the national basic service feature (wat_bas_n) is ,,
+more similar to the distribution of the urban basic service feature (wat_bas_u) than the national limited service feature ,,
+than the national limited service feature ,,
+,,
+,,statistics and visualizations for wat_bas_n and wat_bas_u 
+,,are more similar than those for wat_bas_n and wat_lim_n
+,,TRUE

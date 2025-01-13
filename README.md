@@ -103,7 +103,7 @@ This project is just the beginning. Here’s what I’d love to do next:
 I'm always open to feedback, ideas, or collaboration. Feel free to reach out:
 
 - **Email:** motshabimohola@gmail.com
-- **LinkedIn:** [Hope Mohola](https://linkedin.com/in/MotshabiMohola)
+- **LinkedIn:** [Motshabi Mohola](https://linkedin.com/in/MotshabiMohola)
 - **GitHub:** [@HopeMohola](https://github.com/HopeMohola)
 
 ---

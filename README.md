@@ -75,8 +75,8 @@ Here’s what we learned:
 ```plaintext
 .
 ├── data/
-│   ├── estimates_on_water.csv       # Raw dataset
-│   ├── processed_water_data.csv     # Cleaned and transformed dataset
+│   ├── Estimates-on-the-use-of-water-(2020)-a-3712       # Raw dataset
+│   ├── Calculations - Global 2020 report                 # Cleaned and transformed dataset
 ├── notebooks/
 │   ├── data_cleaning.ipynb          # How we cleaned the data
 │   ├── feature_engineering.ipynb    # Metrics we created
